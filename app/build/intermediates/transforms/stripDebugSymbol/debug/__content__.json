@@ -1,0 +1,1 @@
+[{"name":"libperfa_okhttp_java","index":2,"scopes":["EXTERNAL_LIBRARIES"],"types":["NATIVE_LIBS"],"format":"JAR","present":true},{"name":"libstudio-profiler","index":3,"scopes":["EXTERNAL_LIBRARIES"],"types":["NATIVE_LIBS"],"format":"JAR","present":true}]
